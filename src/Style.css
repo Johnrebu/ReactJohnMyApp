@@ -1,0 +1,10 @@
+.product{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.myproduct{
+    width: 29%;
+    box-shadow: 5px 5px 5px;
+}

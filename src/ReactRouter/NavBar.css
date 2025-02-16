@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    column-gap: 40px; 
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.active{
+    padding: 5px 15px;
+    background-color: aqua;
+    color: aliceblue ;
+    border-radius: 3px;
+}
